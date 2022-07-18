@@ -7,3 +7,4 @@ The Work Day Scheduler is a application to help the everyday busy person with a 
  https://khristopher-schick.github.io/Work-Day-Scheduler/  
  
  
+![Screenshot (19)](https://user-images.githubusercontent.com/104205888/179560254-98c0e4ce-08aa-4451-b645-9632c62bce31.png)
